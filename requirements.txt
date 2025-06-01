@@ -11,3 +11,4 @@ langchain-community==0.3.24
 qianfan==0.4.12.3
 jinja2==3.1.6
 xgboost==2.1.4
+markdown>=3.4.1
